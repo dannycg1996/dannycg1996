@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dannycg1996)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **dannycg1996/dannycg1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
